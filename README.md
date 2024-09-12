@@ -38,4 +38,4 @@ Check out our [Next.js deployment documentation](https://nextjs.org/docs/deploym
 =======
 # Bhasha
 It is an language learning app like duolingo . it is not totally completed. Production with next js, shadcn ui , clerck, tailwind css, typescript etc.
->>>>>>> ce7a1a5992b460999608bdcba6e421ad54ed49e4
+
